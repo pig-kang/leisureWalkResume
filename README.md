@@ -28,8 +28,9 @@ npm test
 * vuex
 * bootstrap
 * axios
+* quill
+* datetimepicker
 
-## picture
 #### index
 
 ![](https://img-warehouse.oss-cn-shenzhen.aliyuncs.com/img/20200422130835.png)
